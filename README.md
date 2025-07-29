@@ -1,4 +1,8 @@
-## Hi there 👋
+# hello, manyta bhasin this side 
+## **studying btech computer science in UPES DEHRADUN**
+### *i currently working on DSA through platforms like leetcode and geekforgeeks and i have also done java core*
+[UPES](https://www.upes.ac.in)
+
 
 <!--
 **manytabhasin/manytabhasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
